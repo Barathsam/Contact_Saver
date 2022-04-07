@@ -67,7 +67,7 @@ Navbar.propTypes = {
 };
 
 Navbar.defaultProps = {
-    title: " KeeperCRM",
+    title: " CKeeper",
     icon: "fa fa-tasks"
 };
 
